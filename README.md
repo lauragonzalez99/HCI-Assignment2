@@ -6,6 +6,12 @@ https://www.figma.com/file/6lopmwImaztVlCxgZrCxFz/CovidApp-Assignment-2?node-id=
 
 ![alt text](https://github.com/lauragonzalez99/HCI-Assignment2/blob/main/Screen%20Shot%202020-11-10%20at%208.14.32%20PM.png)
 
+
+![alt text](https://github.com/lauragonzalez99/HCI-Assignment2/blob/main/Screen%20Shot%202020-11-10%20at%208.14.39%20PM.png)
+
+
+![alt text](https://github.com/lauragonzalez99/HCI-Assignment2/blob/main/Screen%20Shot%202020-11-10%20at%208.15.20%20PM.png)
+
 Top 5 New Desirable Features:
 1. Ability for Seniors to ask for help
 2. Ability for volunteers to offer help
